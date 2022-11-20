@@ -1,4 +1,4 @@
-# Parcial 3 Programación Python
+# Parcial 4 Programación Python
 
 ```bash
 Este es un código para un parcial de Programación de (Phyton). En el cual se pide lo siguiente:
